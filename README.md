@@ -1,7 +1,17 @@
-# Quicksell-Frontend-assignment
+QuickSell Frontend Assignment
+This project is a frontend application hosted on Vercel. It is built as part of a technical assignment to demonstrate proficiency in frontend development.
 
-## 📌About Project
-Develop a React-based Kanban-board app that interfaces with the provided API by Quicksell. Users gain the ability to group tickets dynamically by status, user, or priority, and sort them based on priority or title. Priority levels encompass Urgent, High, Medium, Low, and No priority, mapped to values 4, 3, 2, 1, and 0
+🖥️ Live Demo
+Check out the live demo here: QuickSell Frontend Assignment
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
+📋 Features
+User-Friendly Interface: Designed for a seamless user experience.
+Responsive Design: Optimized for various screen sizes.
+Modern Frontend Technologies: Built using React.js and other modern tools.
+🛠️ Technologies Used
+React.js: For building the user interface.
+CSS/SCSS: For styling the components.
+Vercel: For deployment and hosting.
+🚀 Getting Started
+Prerequisites
+Node.js and npm installed on your system.
